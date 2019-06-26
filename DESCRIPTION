@@ -1,0 +1,24 @@
+Package: Assignment
+Type: Package
+Title: Assignment for Progstat 2019
+Version: 0.1.0
+Authors@R: c(
+    person("Thuy Ngoc Phuong", "Ta", , "thuyta.lmu@gmail.com", c("aut", "cre"),
+    comment = c("MatNr." = "11773058", "PO" = "Pruefgsordnung Statistik 2010", "Moodle" = "Ja"))
+  )
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Contains assignments for Programmieren mit statistischer Software 2019. Solutions can be checked using Travis!
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    testthat,
+    devtools
+Depends:
+    dplyr,
+    tidyr,
+    ggplot2,
+    nycflights13,
+    forcats,
+    checkmate
+RoxygenNote: 6.1.1

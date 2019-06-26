@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^\.git$
+^\.yml$
+^\.rproj$
+^\.gitignore$
+^\.Rcheck$
+^\.travis\.yml$
+^.*\.tar.gz
